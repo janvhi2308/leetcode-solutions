@@ -8,11 +8,13 @@
 | [0217-contains-duplicate](https://github.com/janvhi2308/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/janvhi2308/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/janvhi2308/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -20,12 +22,14 @@
 | [0169-majority-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/janvhi2308/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/janvhi2308/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -43,6 +47,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
