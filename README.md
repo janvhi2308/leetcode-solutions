@@ -22,6 +22,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/janvhi2308/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/janvhi2308/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -29,6 +30,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/janvhi2308/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/janvhi2308/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/janvhi2308/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
