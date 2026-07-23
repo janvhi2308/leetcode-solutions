@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/janvhi2308/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/janvhi2308/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/janvhi2308/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
