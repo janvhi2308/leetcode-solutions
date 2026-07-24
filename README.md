@@ -68,4 +68,16 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/janvhi2308/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/janvhi2308/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/janvhi2308/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+## Binary Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/janvhi2308/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 <!---LeetCode Topics End-->
