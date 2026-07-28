@@ -18,6 +18,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/janvhi2308/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/janvhi2308/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
 | ------- |
