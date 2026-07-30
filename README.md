@@ -32,6 +32,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/janvhi2308/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0344-reverse-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/janvhi2308/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
 |  |
 | ------- |
