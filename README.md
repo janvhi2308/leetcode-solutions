@@ -77,6 +77,7 @@
 | [0383-ransom-note](https://github.com/janvhi2308/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
