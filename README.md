@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/janvhi2308/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/janvhi2308/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@
 | [0344-reverse-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/janvhi2308/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/janvhi2308/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Prefix Sum
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janvhi2308/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/janvhi2308/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
