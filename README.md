@@ -66,6 +66,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0392-is-subsequence](https://github.com/janvhi2308/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvhi2308/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
