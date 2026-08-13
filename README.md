@@ -44,6 +44,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/janvhi2308/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/janvhi2308/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0383-ransom-note](https://github.com/janvhi2308/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/janvhi2308/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/janvhi2308/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/janvhi2308/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/janvhi2308/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
