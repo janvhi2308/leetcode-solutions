@@ -108,6 +108,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/janvhi2308/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/janvhi2308/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/janvhi2308/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -183,4 +184,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvhi2308/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/janvhi2308/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/janvhi2308/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
