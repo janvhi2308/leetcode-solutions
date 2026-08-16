@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janvhi2308/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvhi2308/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/janvhi2308/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvhi2308/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
