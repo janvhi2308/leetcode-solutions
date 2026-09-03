@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janvhi2308/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvhi2308/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvhi2308/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/janvhi2308/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
