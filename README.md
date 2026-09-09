@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvhi2308/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/janvhi2308/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/janvhi2308/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/janvhi2308/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/janvhi2308/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/janvhi2308/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvhi2308/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/janvhi2308/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/janvhi2308/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/janvhi2308/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/janvhi2308/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
