@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/janvhi2308/leetcode-solutions/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvhi2308/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/janvhi2308/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/janvhi2308/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
