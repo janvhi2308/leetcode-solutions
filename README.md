@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvhi2308/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/janvhi2308/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janvhi2308/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -111,6 +112,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/janvhi2308/leetcode-solutions/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
