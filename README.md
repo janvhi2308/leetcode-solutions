@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/janvhi2308/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/janvhi2308/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janvhi2308/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/janvhi2308/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/janvhi2308/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/janvhi2308/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
