@@ -157,18 +157,21 @@
 | ------- |
 | [0100-same-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/janvhi2308/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/janvhi2308/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/janvhi2308/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 ## Breadth-First Search
 |  |
@@ -266,4 +269,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/janvhi2308/leetcode-solutions/tree/master/0148-sort-list) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/janvhi2308/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
