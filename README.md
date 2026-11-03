@@ -23,6 +23,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/janvhi2308/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/janvhi2308/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -68,6 +69,7 @@
 | [0383-ransom-note](https://github.com/janvhi2308/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/janvhi2308/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/janvhi2308/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/janvhi2308/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/janvhi2308/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -82,6 +84,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/janvhi2308/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/janvhi2308/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/janvhi2308/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -126,6 +129,7 @@
 | [0231-power-of-two](https://github.com/janvhi2308/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/janvhi2308/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/janvhi2308/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## String
 |  |
