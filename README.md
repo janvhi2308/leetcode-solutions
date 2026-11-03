@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/janvhi2308/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
