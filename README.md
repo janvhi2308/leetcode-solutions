@@ -26,6 +26,7 @@
 | [0645-set-mismatch](https://github.com/janvhi2308/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/janvhi2308/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -71,6 +72,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/janvhi2308/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/janvhi2308/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/janvhi2308/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/janvhi2308/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/janvhi2308/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/janvhi2308/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,4 +289,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/janvhi2308/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvhi2308/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
